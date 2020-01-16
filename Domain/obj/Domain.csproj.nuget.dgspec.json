@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Projetos\\Reactivities\\Domain\\Domain.csproj": {}
+    "C:\\Projetos\\Reactivities\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "c:\\Projetos\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Projetos\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projetos\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\Projetos\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Projetos\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\jbale\\.nuget\\packages\\",
-        "outputPath": "c:\\Projetos\\Reactivities\\Domain\\obj\\",
+        "outputPath": "C:\\Projetos\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
