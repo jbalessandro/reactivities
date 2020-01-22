@@ -3,3 +3,16 @@
 dotnet run -p API/
 
 dotnet install --global dotnet-ef --version 3.0.0
+
+dotnet ef migrations add InitialCreate -p Persistence/ -s API/
+
+dotnet ef migrations add SeedValues -p Persistence/ -s API/
+
+
+https://create-react-app.dev/docs/getting-started/
+
+npx create-react-app client-app --use-npm --typescript
+
+cd client-app
+npm start
+http://localhost:3000/
