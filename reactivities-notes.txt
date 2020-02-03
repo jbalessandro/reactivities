@@ -13,6 +13,28 @@ https://create-react-app.dev/docs/getting-started/
 
 npx create-react-app client-app --use-npm --typescript
 
+https://create-react-app.dev/docs/getting-started/
 cd client-app
 npm start
 http://localhost:3000/
+
+isolatedModules": true -> false
+"experimentalDecorators": true
+
+to run:
+cd client-app
+npm start
+http://localhost:3000/
+
+
+to run API:
+cd API/
+dotnet watch run
+ou
+dotnet run -p API/
+http://localhost:5000/api/values
+
+
+axios install:
+terminal > cd client-app
+npm install axios
