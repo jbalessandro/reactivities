@@ -12,8 +12,11 @@ namespace Persistence.Migrations
             {
                 var activities = new List<Activity>
                 {
-                    
-                }
+                    new Activity
+                    {
+                        City = "Sao Paulo"
+                    }
+                };
             }
         }
     }
