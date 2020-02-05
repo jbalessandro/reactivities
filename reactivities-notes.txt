@@ -35,6 +35,12 @@ dotnet run -p API/
 http://localhost:5000/api/values
 
 
+npm install semantic-ui-react
+
+
 axios install:
 terminal > cd client-app
 npm install axios
+
+
+https://react.semantic-ui.com/
