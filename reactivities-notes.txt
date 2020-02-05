@@ -37,6 +37,13 @@ http://localhost:5000/api/values
 
 npm install semantic-ui-react
 
+dotnet ef migrations add "ActivityEntityAdded" -p Persistence/ -s API/
+cd api/
+dotnet watch run
+
+
+
+Ctrl + Shift + P Sqlite Open database and after choose database
 
 axios install:
 terminal > cd client-app
