@@ -51,3 +51,6 @@ npm install axios
 
 
 https://react.semantic-ui.com/
+
+
+rafc script do component
